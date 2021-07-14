@@ -15,6 +15,8 @@ sahte metinler olarak kullanılmıştır.
 #. Python
 #. Dart
 #. Java
+#. Javascript
+#. Go
 
 #. Fransa
     * Paris
