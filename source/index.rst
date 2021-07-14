@@ -18,6 +18,8 @@ sahte metinler olarak kullanılmıştır.
 #. Javascript
 #. Go
 
+List Type 2
+
 #. Fransa
     * Paris
     * Lyon
