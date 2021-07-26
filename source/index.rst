@@ -7,7 +7,7 @@ Welcome to ReadTheDocs's documentation!
 =======================================
 
 *Lorem Ipsum*, dizgi ve baskı endüstrisinde kullanılan **mıgır metinlerdir**. 
-Lorem Ipsum, adı bilinmeyen bir matbaacının bir ``hurufat`` numune kitabı oluşturmak 
+Lorem Ipsum, adı bilinmeyen bir matbaacının bir ``new changed`` numune kitabı oluşturmak 
 üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri endüstri standardı 
 sahte metinler olarak kullanılmıştır.
 
@@ -15,8 +15,6 @@ sahte metinler olarak kullanılmıştır.
 #. Python
 #. Dart
 #. Java
-#. Javascript
-#. Go
 
 #. Fransa
     * Paris
