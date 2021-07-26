@@ -3,14 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to ReadTheDocs's documentation v1!
-============================================
-
 *Lorem Ipsum*, dizgi ve baskı endüstrisinde kullanılan **mıgır metinlerdir**. 
 Lorem Ipsum, adı bilinmeyen bir matbaacının bir ``new changed`` numune kitabı oluşturmak 
 üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri endüstri standardı 
 sahte metinler olarak kullanılmıştır.
 
+
+Burada yeni bir değişiklik yapıldı.
 
 Burada bir değişiklik yapıldı.
 
