@@ -11,6 +11,9 @@ Lorem Ipsum, adı bilinmeyen bir matbaacının bir ``new changed`` numune kitab�
 üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri endüstri standardı 
 sahte metinler olarak kullanılmıştır.
 
+
+Burada bir değişiklik yapıldı.
+
 #. CSharp
 #. Python
 #. Dart
