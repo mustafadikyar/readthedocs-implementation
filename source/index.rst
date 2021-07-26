@@ -12,6 +12,8 @@ Lorem Ipsum, adı bilinmeyen bir matbaacının bir ``new changed`` numune kitab�
 sahte metinler olarak kullanılmıştır.
 
 
+Burada yeni bir değişiklik yapıldı.
+
 Burada bir değişiklik yapıldı.
 
 #. CSharp
