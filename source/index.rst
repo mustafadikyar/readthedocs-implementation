@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to ReadTheDocs's documentation!
+Welcome to ReadTheDocs's documentation v1!
 =======================================
 
 *Lorem Ipsum*, dizgi ve baskı endüstrisinde kullanılan **mıgır metinlerdir**. 
