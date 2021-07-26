@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Welcome to ReadTheDocs's documentation v1!
-=======================================
+============================================
 
 *Lorem Ipsum*, dizgi ve baskı endüstrisinde kullanılan **mıgır metinlerdir**. 
 Lorem Ipsum, adı bilinmeyen bir matbaacının bir ``new changed`` numune kitabı oluşturmak 
@@ -60,6 +60,7 @@ List Type 2
 
 
 .. image:: images/mini-yoda.jpg
+   :class: img-yoda
 
 
 
@@ -75,6 +76,7 @@ List Type 2
 .. list-table:: Sample Table
    :widths: 20 10 10 15
    :header-rows: 1
+   :class: tight-table
 
    * - Title A
      - Title B
@@ -83,11 +85,11 @@ List Type 2
    * - C 1.0
      - C 1.1
      - C 1.2
-     - C 1.3
+     - Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri endüstri standardı sahte metinler olarak kullanılmıştır.
    * - C 2.0
      - C 2.1
      - C 2.2
-     - C 2.3
+     - Lorem Ipsum, dizgi ve baskı endüstrisinde kullanılan mıgır metinlerdir. Lorem Ipsum, adı bilinmeyen bir matbaacının bir hurufat numune kitabı oluşturmak üzere bir yazı galerisini alarak karıştırdığı 1500'lerden beri endüstri standardı sahte metinler olarak kullanılmıştır.
 
 
 
