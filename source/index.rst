@@ -20,7 +20,7 @@ Burada bir değişiklik yapıldı.
 
 List Type 2
 
-#. Fransa
+#. Fransa1
     * Paris
     * Lyon
     * Marsilya
